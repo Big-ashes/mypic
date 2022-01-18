@@ -1,2 +1,2 @@
 # mypic
-This is my picgo
+This is my image host
